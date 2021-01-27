@@ -31,13 +31,13 @@ I am a full-stack software engineer. I love programming.
 
 **Projects that I have worked on:**
 
-- <a href="https://edenmeets.netlify.app" target="_blank">Created the landing page and authentication screens for a Dating web app using Reactjs, TypeScript, SASS and Bootstrap </a>.
-- <a href="https://faith-image-finder-app.netlify.app" target="_blank">Built a mobile responsive Image Finder App using Reactjs, Redux, Redux-Saga and Pixabay API. </a>;
-- <a href="https://faith-notes-app.netlify.app" target="_blank">Built a Note Taking App using Node, Express, GraphQL, React and Apollo Client.</a>;
-- <a href="https://faith-vue-weather-app.netlify.app" target="_blank">Built a Weather App using Vuejs and Open Weather API</a>;
-- <a href="https://faith-health-app.netlify.app" target="_blank">Created a responsive web app with the use of React, React Router, Reactstrap, OwlCarousel and Styled Components</a>;
-- <a href="https://faithoyebode.github.io/Calculator-app/calc.html" target="_blank">Created a Calculator App that can perform basic arithmetic calculations using Vanilla JavaScript</a>;
-- <a href="https://faithoyebode.github.io/Roman-Numeral-Converter/index.html" target="_blank">Created a Roman Numeral Converter app that converts numbers to their roman numeral equivalent</a>;
+:pushpin: <a href="https://edenmeets.netlify.app" target="_blank">Created the landing page and authentication screens for a Dating web app using Reactjs, TypeScript, SASS and Bootstrap </a>.<br />
+:pushpin: <a href="https://faith-image-finder-app.netlify.app" target="_blank">Built a mobile responsive Image Finder App using Reactjs, Redux, Redux-Saga and Pixabay API. </a>;<br />
+:pushpin: <a href="https://faith-notes-app.netlify.app" target="_blank">Built a Note Taking App using Node, Express, GraphQL, React and Apollo Client.</a>;<br />
+:pushpin: <a href="https://faith-vue-weather-app.netlify.app" target="_blank">Built a Weather App using Vuejs and Open Weather API</a><br />
+:pushpin: <a href="https://faith-health-app.netlify.app" target="_blank">Created a responsive web app with the use of React, React Router, Reactstrap, OwlCarousel and Styled Components</a><br />
+:pushpin: <a href="https://faithoyebode.github.io/Calculator-app/calc.html" target="_blank">Created a Calculator App that can perform basic arithmetic calculations using Vanilla JavaScript</a><br />
+:pushpin: <a href="https://faithoyebode.github.io/Roman-Numeral-Converter/index.html" target="_blank">Created a Roman Numeral Converter app that converts numbers to their roman numeral equivalent</a>
 
   <br />
 **Talking about Personal Stuffs:**
