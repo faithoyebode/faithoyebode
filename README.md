@@ -40,7 +40,7 @@ I am a full-stack software engineer. I love programming.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on an e-commerce app;
+- 👨🏻‍💻 I’m currently working on an <a href="https://github.com/faithoyebode/dopeshop-frontend" target="_blank"> e-commerce app</a>;
 - 🚀 I’m currently learning Laravel;
 - 💬 Ask me about JavaScript, React & Redux. I am happy to help;
 - 📫 How to reach me: faithamosoyebode@gmail.com;
