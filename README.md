@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I am a full-stack software engineer. I love programming.
 
 
-<!--<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />-->
+<img align="right" alt="GIF" src="https://github.com/faithoyebode/faithoyebode/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
 **Projects that I have worked on:**
