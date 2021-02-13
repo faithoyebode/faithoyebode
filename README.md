@@ -31,6 +31,9 @@ I am a full-stack software engineer. I love programming.
 
 **Projects that I have worked on:**
 
+:round_pushpin: <a href="https://faith-dopeshop.netlify.app" target="_blank">Built both the frontend and backend of an e-commerce app with paystack and flutterwave payment integration using React, Redux, Node, Express, Mongoose and MongoDB</a>
+<br />
+
 :round_pushpin: <a href="https://edenmeets.netlify.app" target="_blank">Created the landing page and authentication screens for a Dating web app using Reactjs, TypeScript, SASS and Bootstrap </a>
 <br />
 
@@ -55,7 +58,7 @@ I am a full-stack software engineer. I love programming.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on an <a href="https://github.com/faithoyebode/dopeshop-frontend" target="_blank"> e-commerce app</a>;
+- 👨🏻‍💻 I’m currently working on building simple projects with laravel;
 - 🚀 I’m currently learning Laravel;
 - 💬 Ask me about JavaScript, React & Redux. I am happy to help;
 - 📫 How to reach me: faithamosoyebode@gmail.com;
