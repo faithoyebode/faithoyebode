@@ -46,7 +46,7 @@ I am a full-stack software engineer. I love programming.
 :round_pushpin: <a href="https://faith-vue-weather-app.netlify.app" target="_blank">Built a Weather App using Vuejs and Open Weather API</a>
 <br />
 
-:round_pushpin: <span>Built an API for an Authentication System using Laravel Framework, Larave Sanctum packege and MySQL database. Click this link to view the Postman documentation of the API - <a href="https://documenter.getpostman.com/view/11042681/Tzm5HGez" target="_blank">Link</a></span>
+:round_pushpin: <span>Built an API for an Authentication System using Laravel Framework, Laravel Sanctum package and MySQL database. Click this link to view the Postman documentation for the API - <a href="https://documenter.getpostman.com/view/11042681/Tzm5HGez" target="blank">Link</a></span>
 <br />
 
 :round_pushpin: <a href="https://faith-health-app.netlify.app" target="_blank">Created a responsive web app with the use of React, React Router, Reactstrap, OwlCarousel and Styled Components</a>
