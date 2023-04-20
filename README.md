@@ -31,16 +31,13 @@ I am a full-stack software engineer. I love programming.
 
 **Projects that I have worked on:**
 
-:round_pushpin: <a href="https://faith-dopeshop.netlify.app" target="_blank">Built both the frontend and backend of an e-commerce app with paystack and flutterwave payment integration using React, Redux, Node, Express, Mongoose and MongoDB</a>
-<br />
-
-:round_pushpin: <a href="https://edenmeets.netlify.app" target="_blank">Created the landing page and authentication screens for a Dating web app using Reactjs, TypeScript, SASS and Bootstrap </a>
+:round_pushpin: <a href="https://btnc.de" target="_blank">Built an e-commerce app using Gatsby, React, TypeScript, Headless Wordpress and WooCommerce</a>
 <br />
 
 :round_pushpin: <a href="https://faith-image-finder-app.netlify.app" target="_blank">Built a mobile responsive Image Finder App using Reactjs, Redux, Redux-Saga and Pixabay API.</a>
 <br />
 
-:round_pushpin: <a href="https://faith-notes-app.netlify.app" target="_blank">Built a Note Taking App using Node, Express, GraphQL, React and Apollo Client.</a>
+:round_pushpin: <a href="https://dimorelli.com" target="_blank">Built an e-commerce app using Gatsby, React, TypeScript, Headless Wordpress and Shopify</a>
 <br />
 
 :round_pushpin: <a href="https://faith-vue-weather-app.netlify.app" target="_blank">Built a Weather App using Vuejs and Open Weather API</a>
@@ -61,9 +58,9 @@ I am a full-stack software engineer. I love programming.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on building simple projects with laravel;
-- 🚀 I’m currently learning Laravel;
-- 💬 Ask me about JavaScript, React & Redux. I am happy to help;
+- 👨🏻‍💻 I’m currently working on building mobile apps;
+- 🚀 I’m currently learning mobile app development;
+- 💬 Ask me about Javscript, React, Gatsby, Next.js, Node.js. I am happy to help;
 - 📫 How to reach me: faithamosoyebode@gmail.com;
 
 
