@@ -60,15 +60,9 @@ I am a full-stack software engineer. I love programming.
 
 - 👨🏻‍💻 I’m currently working on building DevOps related projects;
 - 🚀 I’m currently learning DevOps;
+-  👯 I’m looking to collaborate on open source projects;
 - 💬 Ask me about TypeScript, Javscript, React, Next.js, Node.js and Docker. I am happy to help;
 - 📫 How to reach me: faithamosoyebode@gmail.com;
 
 
 </br>
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithoyebode&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
-</p>
