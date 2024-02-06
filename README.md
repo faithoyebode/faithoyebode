@@ -58,18 +58,17 @@ I am a full-stack software engineer. I love programming.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on building mobile apps;
-- 🚀 I’m currently learning mobile app development;
-- 💬 Ask me about Javscript, React, Gatsby, Next.js, Node.js. I am happy to help;
+- 👨🏻‍💻 I’m currently working on building DevOps related projects;
+- 🚀 I’m currently learning DevOps;
+- 💬 Ask me about TypeScript, Javscript, React, Next.js, Node.js and Docker. I am happy to help;
 - 📫 How to reach me: faithamosoyebode@gmail.com;
 
 
 </br>
 
-<!--
-📈 **My GitHub Stats:**-->
 
-<!--
+📈 **My GitHub Stats:**
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithoyebode&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
-</p> -->
+</p>
