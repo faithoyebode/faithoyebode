@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! &nbsp;
 
-I am a full-stack software engineer. I love programming.
+I am a full-stack engineer. I have at least five years experience in Software Development.
 
 
 <img align="right" alt="GIF" src="https://github.com/faithoyebode/faithoyebode/blob/main/coding.gif?raw=true" width="408" height="318" />
@@ -31,14 +31,18 @@ I am a full-stack software engineer. I love programming.
 
 **Projects that I have worked on:**
 
-:round_pushpin: <a href="https://btnc.de" target="_blank">Built an e-commerce app using Gatsby, React, TypeScript, Headless Wordpress and WooCommerce</a>
+:round_pushpin: <a href="https://vankable.co.jp/mypage" target="_blank">Worked on both the frontend and backend of a Buy Now Pay Later platform for a Japanese company. Frontend: Nextjs, React, TypeScript, CSS, Docker. Backend: Nestjs, Nodejs, TypeScript, MySQL, TypeORM</a>
+<br />
+
+:round_pushpin: <a href="https://vicprop.com.au" target="_blank">Built a real estate listing app using Gatsby, React, TypeScript and Headless Wordpress</a>
+<br />
+
+:round_pushpin: <a href="https://hongshing.com" target="_blank">Built a company profile website for a Chinese Restaurant in Canada using Nextjs, React, TypeScript, Tailwind CSS, and Prismic</a>
 <br />
 
 :round_pushpin: <a href="https://faith-image-finder-app.netlify.app" target="_blank">Built a mobile responsive Image Finder App using Reactjs, Redux, Redux-Saga and Pixabay API.</a>
 <br />
 
-:round_pushpin: <a href="https://dimorelli.com" target="_blank">Built an e-commerce app using Gatsby, React, TypeScript, Headless Wordpress and Shopify</a>
-<br />
 
 :round_pushpin: <a href="https://faith-vue-weather-app.netlify.app" target="_blank">Built a Weather App using Vuejs and Open Weather API</a>
 <br />
