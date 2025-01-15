@@ -43,7 +43,7 @@ I am a full-stack engineer. I have at least five years experience in Software De
 :round_pushpin: <a href="https://hongshing.com" target="_blank">Built a company profile website for a Chinese Restaurant in Canada using Nextjs, React, TypeScript, Tailwind CSS, and Prismic</a>
 <br />
 
-:round_pushpin: <a href="https://gethappyfolks.com" target="_blank">Built a multi-lingual website for a user survey company in Germany using Nextjs, React, TypeScript, Tailwind CSS, and Convertkit</a>
+:round_pushpin: <a href="https://www.baccprep.com" target="_blank">Created a Learning Management System using Gatsbyjs, React, TypeScript, Tailwind CSS, and Headless Wordpress</a>
 <br />
 
 :round_pushpin: <a href="https://faith-image-finder-app.netlify.app" target="_blank">Built a mobile responsive Image Finder App using Reactjs, Redux, Redux-Saga and Pixabay API.</a>
@@ -53,14 +53,9 @@ I am a full-stack engineer. I have at least five years experience in Software De
 :round_pushpin: <span>Built an API for an Authentication System using Laravel Framework, Laravel Sanctum package and MySQL database. Click this link to view the Postman documentation for the API - <a href="https://documenter.getpostman.com/view/11042681/Tzm5HGez" target="blank">Link</a></span>
 <br />
 
-:round_pushpin: <a href="https://faith-health-app.netlify.app" target="_blank">Created a responsive web app with the use of React, React Router, Reactstrap, OwlCarousel and Styled Components</a>
+:round_pushpin: <span>Wrote an article on how to set up Wordpress on an AWS EC2 instance. You can read it here - <a href="https://medium.com/@faithamosoyebode/a-comprehensive-guide-to-setting-up-wordpress-through-user-data-on-amazon-ec2-in-2024-d3f7eee7141e" target="blank">Link</a></span>
 <br />
 
-:round_pushpin: <a href="https://faithoyebode.github.io/Calculator-app/calc.html" target="_blank">Created a Calculator App that can perform basic arithmetic calculations using Vanilla JavaScript</a>
-<br />
-
-:round_pushpin: <a href="https://faithoyebode.github.io/Roman-Numeral-Converter/index.html" target="_blank">Created a Roman Numeral Converter app that converts numbers to their roman numeral equivalent</a>
-  <br />
   
   
 **Talking about Personal Stuffs:**
