@@ -37,15 +37,18 @@ I am a full-stack engineer. I have at least five years experience in Software De
 :round_pushpin: <a href="https://vicprop.com.au" target="_blank">Built a real estate listing app using Gatsby, React, TypeScript and Headless Wordpress</a>
 <br />
 
+:round_pushpin: <a href="https://mrcbc.com" target="_blank">Built a company profile website for a skin clinic in Vancouver, Canada using Gatsbyjs, React, TypeScript, Tailwind CSS, and Headless Wordpress</a>
+<br />
+
 :round_pushpin: <a href="https://hongshing.com" target="_blank">Built a company profile website for a Chinese Restaurant in Canada using Nextjs, React, TypeScript, Tailwind CSS, and Prismic</a>
+<br />
+
+:round_pushpin: <a href="https://gethappyfolks.com" target="_blank">Built a multi-lingual website for a user survey company in Germany using Nextjs, React, TypeScript, Tailwind CSS, and Convertkit</a>
 <br />
 
 :round_pushpin: <a href="https://faith-image-finder-app.netlify.app" target="_blank">Built a mobile responsive Image Finder App using Reactjs, Redux, Redux-Saga and Pixabay API.</a>
 <br />
 
-
-:round_pushpin: <a href="https://faith-vue-weather-app.netlify.app" target="_blank">Built a Weather App using Vuejs and Open Weather API</a>
-<br />
 
 :round_pushpin: <span>Built an API for an Authentication System using Laravel Framework, Laravel Sanctum package and MySQL database. Click this link to view the Postman documentation for the API - <a href="https://documenter.getpostman.com/view/11042681/Tzm5HGez" target="blank">Link</a></span>
 <br />
